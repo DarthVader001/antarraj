@@ -697,9 +697,9 @@ body {
   }
   }
   
-  @media (max-width:400px) and (min-height: 650px){
+ @media (max-width:400px) and (min-height: 650px){
     #namee{
-      scale: 1;
+      scale: 0.23;
     }
     .festname{
       top: 10vh;
@@ -710,11 +710,12 @@ body {
       top: 29vh;
     }
     #circle{
-      scale: 2;
-      top: 27vh;
-      left: 74vh;
+      left: 66vw;
+      scale: 0.23;
+      top: 29vh;
     }
   }
+
 
   /* ABOUT US CSS */
 
